@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed AbdElkareem</h1>
 <h3 align="center">A passionate Computer Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarKimo](https://github.com/OmarKimo)
 
