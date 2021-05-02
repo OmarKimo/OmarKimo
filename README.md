@@ -36,7 +36,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkimo&show_icons=true&locale=en&layout=compact" alt="omarkimo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarkimo&show_icons=true&locale=en" alt="omarkimo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkimo&" alt="omarkimo" /></p>
 
