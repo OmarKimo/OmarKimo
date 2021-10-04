@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omarkimo80@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/117ykcyfag28Kp_AOd3lkH4uJsg1cZYcu/view)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1io6wDXmKsR54lv7GdsNQjcng4JWYKmOg/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
