@@ -3,7 +3,7 @@
 
 [comment]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkimo" alt="omarkimo" /></a> </p>)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarKimo](https://github.com/OmarKimo)
 
