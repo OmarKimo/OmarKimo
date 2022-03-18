@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **omarkimo80@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1io6wDXmKsR54lv7GdsNQjcng4JWYKmOg/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/omarkimo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="omarkimo" height="30" width="40" /></a>
