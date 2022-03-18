@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed AbdElkareem</h1>
-<h3 align="center">A Software Engineer in Microsoft and interested in building cool stuff with Programming.</h3>
+<h3 align="center">A Software Engineer at Microsoft and interested in building cool stuff with Programming.</h3>
 
 [comment]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkimo" alt="omarkimo" /></a> </p>)
 
